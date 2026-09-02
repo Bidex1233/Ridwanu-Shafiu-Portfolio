@@ -1,0 +1,16 @@
+Student_ID,Age,Department,Gender,Study_Hours,Attendance,Test_Score,Exam_Score
+S001,18,Meteorology,Male,8,92,78,82
+S002,19,Meteorology,Female,6,85,72,76
+S003,20,Computer Science,Male,10,95,88,91
+S004,18,Computer Science,Female,7,90,81,85
+S005,21,Physics,Male,5,78,65,69
+S006,20,Physics,Female,9,88,79,84
+S007,19,Meteorology,Male,4,70,58,61
+S008,22,Computer Science,Male,11,97,93,95
+S009,18,Physics,Female,6,82,70,74
+S010,21,Meteorology,Female,9,91,85,88
+S011,20,Computer Science,Female,8,93,86,89
+S012,19,Physics,Male,3,68,55,59
+S013,22,Meteorology,Male,7,87,76,80
+S014,18,Computer Science,Female,5,80,68,72
+S015,21,Physics,Male,8,89,82,86

@@ -1,99 +1,94 @@
 # Ridwanu Shafiu — AI & Data Portfolio
 
-## About Me
+Welcome to my portfolio.
 
-I am a Meteorology and Climate Science student at the Federal University of Technology Akure with an interest in **Artificial Intelligence, data analysis, Python, and cybersecurity**.
+This repository contains practical projects demonstrating my growing skills in **AI evaluation, data analysis, data cleaning, Python, and working with structured datasets**.
 
-I am currently developing practical skills in Python and data-related workflows while building projects that demonstrate my ability to work with, evaluate, clean, and organize data.
-
-## Skills
-
-* Python
-* Pandas
-* Data Cleaning
-* Data Evaluation
-* Data Quality Assessment
-* CSV Data Processing
-* Microsoft Excel
-* Multilingual Data Preparation
-* Basic Cybersecurity Knowledge
-
-## Projects
+## 🚀 Projects
 
 ### 1. AI Response Evaluation & Quality Assessment
 
-**Focus:** AI response evaluation and human feedback
-
-This project involved evaluating AI-generated responses based on:
-
-* Accuracy
-* Relevance
-* Clarity
-* Instruction following
-* Overall quality
-
-The project also demonstrates the ability to identify factual errors, instruction violations, ambiguity, and other response-quality problems.
+A project focused on evaluating AI-generated responses using structured criteria.
 
 **Skills demonstrated:**
-AI evaluation, critical analysis, quality assessment, structured scoring, written justification.
+- AI response evaluation
+- Data annotation
+- Quality assessment
+- Python
+- Pandas
+- Data analysis
+
+**Key result:**
+50% of the evaluated responses achieved an instruction-following score of 4/5 or higher.
 
 ---
 
 ### 2. Python Data Cleaning
 
-**Focus:** Data cleaning and preparation using Python and Pandas
-
-A student dataset was created and cleaned using Python.
-
-The project involved:
-
-* Detecting missing values
-* Detecting duplicate records
-* Standardizing inconsistent department names
-* Calculating a median value
-* Handling missing data
-* Exporting the cleaned dataset to CSV
-
-**Tools:** Python, Pandas, Microsoft Excel
+A practical data-cleaning project using Python and Pandas.
 
 **Skills demonstrated:**
-Data cleaning, DataFrames, missing-value handling, duplicate detection, data standardization, CSV processing.
+- Data cleaning
+- Missing-value detection
+- Duplicate detection
+- Data consistency
+- DataFrame manipulation
+- CSV processing
 
 ---
 
-### 3. Multilingual Language Dataset
+### 3. Multilingual Language Data
 
-**Focus:** English, Yoruba, and Hausa language data
-
-A small multilingual dataset was created containing everyday expressions in English, Yoruba, and Hausa.
-
-The dataset was checked for missing values and duplicates and then transformed from a wide format into a long format using Pandas.
-
-The final dataset contains **30 language-text records**.
+A project focused on working with language-related data and preparing structured datasets for analysis.
 
 **Skills demonstrated:**
-Multilingual data preparation, text data organization, Pandas, data transformation, category analysis, CSV export.
-
-## Current Learning Goals
-
-I am currently working toward improving my skills in:
-
-* Python
-* Data Analysis
-* AI Data Evaluation
-* Data Annotation
-* Natural Language Processing
-* Cybersecurity
-
-## Portfolio Goal
-
-My goal is to develop practical experience through real projects and build the skills required to contribute to AI and data-related work.
-
-## Contact
-
-**Name:** Ridwanu Shafiu
-**Location:** Akure, Ondo State, Nigeria
+- Data organization
+- Python
+- Pandas
+- Structured data processing
+- Dataset preparation
 
 ---
 
-*This portfolio is continuously being updated as I complete new projects and develop new technical skills.*
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Microsoft Excel
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📊 Current Focus
+
+I am developing practical skills in:
+
+- Data Analysis
+- AI Evaluation
+- Data Annotation
+- Python
+- Machine Learning
+- Artificial Intelligence
+
+## 📁 Repository Structure
+
+```text
+Ridwanu-Shafiu-Portfolio/
+│
+├── README.md
+│
+├── 01_AI_Response_Evaluation/
+│   ├── evaluation_dataset.csv
+│   ├── evaluation_analysis.py
+│   └── README.md
+│
+├── 02_Python_Data_Cleaning/
+│   ├── data_cleaning.py
+│   ├── cleaned_student_data.csv
+│   └── README.md
+│
+└── 03_Multilingual_Language_Data/
+    ├── language_data.py
+    ├── multilingual_dataset.csv
+    └── README.md
